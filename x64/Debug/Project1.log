@@ -1,0 +1,66 @@
+﻿  inputbox.cpp
+D:\VisualStudio\Files\Project1\inputbox.cpp(23,108): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+D:\VisualStudio\Files\Project1\main.cpp(10,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+D:\VisualStudio\Files\Project1\main.cpp(11,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+D:\VisualStudio\Files\Project1\main.cpp(12,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+D:\VisualStudio\Files\Project1\main.cpp(13,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+D:\VisualStudio\Files\Project1\main.cpp(23,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+D:\VisualStudio\Files\Project1\renderer.cpp(1,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+D:\VisualStudio\Files\Project1\renderer.cpp(10,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+D:\VisualStudio\Files\Project1\renderer.cpp(19,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+D:\VisualStudio\Files\Project1\renderer.cpp(28,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+D:\VisualStudio\Files\Project1\renderer.cpp(42,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+D:\VisualStudio\Files\Project1\renderer.cpp(54,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\VisualStudio\Files\Project1\renderer.cpp(54,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\VisualStudio\Files\Project1\renderer.cpp(54,46): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\VisualStudio\Files\Project1\renderer.cpp(54,63): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\VisualStudio\Files\Project1\renderer.cpp(58,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+D:\VisualStudio\Files\Project1\renderer.cpp(70,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\VisualStudio\Files\Project1\renderer.cpp(70,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\VisualStudio\Files\Project1\renderer.cpp(70,46): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\VisualStudio\Files\Project1\renderer.cpp(70,63): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\VisualStudio\Files\Project1\renderer.cpp(74,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+D:\VisualStudio\Files\Project1\collision.cpp(1,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+D:\VisualStudio\Files\Project1\main.cpp(29,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+D:\VisualStudio\Files\Project1\game.cpp(12,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+D:\VisualStudio\Files\Project1\game.cpp(19,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+D:\VisualStudio\Files\Project1\main.cpp(106,28): warning C4244: '=': conversion from 'LONGLONG' to 'float', possible loss of data
+  Generating Code...
+  Project1.vcxproj -> D:\VisualStudio\Files\Project1\x64\Debug\Project1.exe
